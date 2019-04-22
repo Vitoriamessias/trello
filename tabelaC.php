@@ -21,7 +21,9 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 
   </head>
+  
    <body>
+   <!--deu-->
     <script type="text/javascript">   
       function toast (){
         alertify.message('Nova tarefa adicionada');
